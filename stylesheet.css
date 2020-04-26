@@ -41,6 +41,9 @@ a {
   font-size: 45px;
   letter-spacing: 5px;
   margin-bottom: 10px;
+  position: relative;
+  animation-name: rubberBand;
+  animation-duration: 2s;
 }
 
 .top-wrapper p {
