@@ -268,8 +268,8 @@ footer {
   color: #5f5d60;
 }
 
-.footer-content {
-  float: left;
+.footer-content{
+  float: right;
   width: 50%;
 }
 
