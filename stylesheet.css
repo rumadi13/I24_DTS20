@@ -124,6 +124,7 @@ header {
   float: left;
   transition: all 0.5s;
   font-size: larger;
+  font-weight: bold;
 }
 
 .header-right a:hover {
@@ -147,6 +148,7 @@ header {
 .content {
   float: left;
   width: 50%;
+  padding-bottom: 50px;
 }
 
 .content-about{
@@ -187,6 +189,7 @@ header {
   padding-bottom: 80px;
   padding-left: 5%;
   padding-right: 5%;
+  padding-top: 80px;
   background-color: #f7f7f7;
   text-align: center;
 }
@@ -196,7 +199,9 @@ header {
   padding-bottom: 50px;
   color: #5f5d60;
 }
-
+.heading h2{
+  padding-top: 80px;
+}
 .lesson {
   float: left;
   width: 25%;
@@ -254,8 +259,22 @@ footer p {
 }
 
 footer {
-  padding-top: 30px;
+  padding-top: 10px;
   padding-bottom: 20px;
+}
+
+.footer-heading {
+  padding-bottom: 10px;
+  color: #5f5d60;
+}
+
+.footer-content {
+  float: left;
+  width: 50%;
+}
+
+.content-footer{
+  position: relative;
 }
 
 /* Ketik code Anda dibawah */
