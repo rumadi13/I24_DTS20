@@ -30,7 +30,7 @@ a {
 }
 
 .top-wrapper {
-  padding: 180px 0 100px 0;
+  padding: 180px 0 50px 0;
   background-image: url("top_en.png");
   background-size: cover;
   color: black;
@@ -130,6 +130,59 @@ header {
   background-color: rgba(255, 255, 255, 0.3);
 }
 
+.about-wrapper {
+  padding-bottom: 5%;
+  padding-left: 5%;
+  padding-right: 5%;
+  background-color: #f7f7f7;
+  text-align: center;
+}
+
+.about-heading {
+  padding-top: 50px;
+  padding-bottom: 10px;
+  color: #5f5d60;
+}
+
+.content {
+  float: left;
+  width: 50%;
+}
+
+.content-about{
+  position: relative;
+}
+.content-about img{
+  border-style: double;
+  width:90%;
+  float: left;
+}
+.about-heading h2 {
+  font-weight: bold;
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+.about-heading h3 {
+  font-weight: normal;
+  text-align: left;
+}
+.about-heading span {
+  font-weight: normal;
+  color: red;
+}
+
+.content-about p{
+  text-align: justify;
+  text-indent: 35px;
+}
+.content-about span{
+  font-weight: bold;
+}
+.heading h1 {
+  font-weight: normal;
+}
+
 .lesson-wrapper {
   padding-bottom: 80px;
   padding-left: 5%;
@@ -142,24 +195,6 @@ header {
   padding-top: 80px;
   padding-bottom: 50px;
   color: #5f5d60;
-}
-
-.about-heading h2 {
-  font-weight: bold;
-  text-align: center;
-  margin-top: 20px
-}
-
-.about-heading h3 {
-  font-weight: normal;
-}
-.about-heading span {
-  font-weight: normal;
-  color: red;
-}
-
-.heading h1 {
-  font-weight: normal;
 }
 
 .lesson {
