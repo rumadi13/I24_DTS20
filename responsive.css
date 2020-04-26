@@ -12,6 +12,9 @@
   .heading h2 {
     font-size: 20px;
   }
+  .menu-icon {
+    display: none;
+  }
 }
 
 /* Untuk Smartphone */
@@ -20,8 +23,9 @@
     display: none;
   }
 
-  .menu-icon {
+  .fa-bars {
     display: block;
+    visibility: visible;
   }
     .lesson {
     width: 100%;
@@ -31,7 +35,13 @@
 }
 
   .btn {
-    width: 100%;
+    width: 40%;
+    padding: 12px 27px;
+    color: white;
+    display: inline-flex;
+    opacity: 0.8;
+    border-radius: 4px;
+    text-align: center;
   }
 
   .facebook {
