@@ -311,6 +311,10 @@ footer {
 .crew-icon {
   position: relative;
 }
+.crew-icon img{
+  position: relative;
+  border-style: groove;
+}
 
 .crew-icon p {
   position: absolute;
