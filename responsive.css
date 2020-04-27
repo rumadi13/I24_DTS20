@@ -32,7 +32,11 @@
   }
   .content {
   width: 100%;
-}
+  
+  }
+  .crew {
+  width: 100%;
+  }
 
   .btn {
     width: 40%;
