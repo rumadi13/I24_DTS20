@@ -232,7 +232,7 @@ header {
 .message-wrapper {
   border-bottom: 1px solid #eee;
   text-align: center;
-  background-image: url("quote.jpg");
+  background-image: url("images/quote.jpg");
   background-size: contain;
 
 }
