@@ -252,7 +252,7 @@ header {
 .message-wrapper h3{
   font-weight: bold;
   font-style: italic;
-  color: black;
+  color: #ecf0f1;
 }
 .message-wrapper p{
   font-weight: bold;
